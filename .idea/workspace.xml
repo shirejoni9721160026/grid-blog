@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c517e1bc-4614-4e61-a9ff-2ab41fd08928" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kHtYtYeBI6CIe2sZAaOcsc2gVh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.breadcrumbs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c517e1bc-4614-4e61-a9ff-2ab41fd08928" name="Default Changelist" comment="" />
+      <created>1605369395531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605369395531</updated>
+      <workItem from="1605369396637" duration="11095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="894" y="408" width="904" height="607" key="#Vim_Emulation" timestamp="1605370479919">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="894" y="408" width="904" height="607" key="#Vim_Emulation/66.27.1854.1053@66.27.1854.1053" timestamp="1605370479919" />
+    <state x="482" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1605380399235">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="482" y="188" width="1022" height="737" key="SettingsEditor/66.27.1854.1053@66.27.1854.1053" timestamp="1605380399235" />
+    <state width="498" height="448" key="SwitcherDM" timestamp="1605380408701">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="498" height="448" key="SwitcherDM/66.27.1854.1053@66.27.1854.1053" timestamp="1605380408701" />
+    <state x="837" y="456" width="302" height="201" key="UiDebugger" timestamp="1605374809087">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="837" y="456" width="302" height="201" key="UiDebugger/66.27.1854.1053@66.27.1854.1053" timestamp="1605374809087" />
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1605380387893">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup/66.27.1854.1053@66.27.1854.1053" timestamp="1605380387893" />
+  </component>
+</project>
